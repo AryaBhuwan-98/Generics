@@ -17,4 +17,4 @@ public class FindMaxInteger {
 	     System.out.println("Max Integer Nmber is: "+FindMaxInteger.compareTo(15, 32, 45));
 	}
 
-}
+}  
