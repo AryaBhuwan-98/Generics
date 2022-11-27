@@ -27,5 +27,4 @@ public static void main(String[] args) {
         RefactorTwo<String> compareString = new RefactorTwo<String>("Apple", "Banana", "Peach");
         System.out.println("Maximum among three string is: " + compareString.testMaximum());
 }
-
 }

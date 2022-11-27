@@ -14,5 +14,4 @@ public static void main(String[] args) {
 	System.out.println("Welcome to find maximum no from three float");
 	System.out.println("Max Integer Nmber is: "+FindMaxFloat.compareTo(15.1F, 32.2F, 45.3F));
 }
-
 }
